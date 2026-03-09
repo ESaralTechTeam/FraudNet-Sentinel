@@ -1,6 +1,11 @@
 # FraudNet Sentinel  
 AI‑Powered Welfare Fraud Detection and Complaint Intelligence Platform
 
+## Video Demonstration 
+
+https://github.com/user-attachments/assets/e0ea5b89-a54f-4d58-9f56-6bcc8a2ad2b6
+
+
 ## Overview
 FraudNet Sentinel is an AI‑driven platform designed to detect corruption, fraud, and economic leakage in government welfare schemes. The system enables citizens to submit complaints through voice or text, automatically analyzes the complaint using AI techniques, and generates fraud risk insights for authorities.
 
