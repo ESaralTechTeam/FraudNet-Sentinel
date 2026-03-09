@@ -135,7 +135,7 @@ Frontend deployed using AWS Amplify.
 
 Demo Login Credentials  
 Email: demo40016@gmail.com  
-Password: Demo@123
+Password: Demo@12345
 
 ## Repository Structure
 backend  
